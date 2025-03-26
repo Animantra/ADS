@@ -21,3 +21,4 @@ public class Main {
         System.out.println(min(arr,0));
     }
 }
+//this code finds minimum element from array

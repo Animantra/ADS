@@ -9,7 +9,7 @@ public class problem2 {
         return average/arr.length;
     }
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         int n= sc.nextInt();
         int[] arr=new int[n];
@@ -19,4 +19,3 @@ public class problem2 {
         System.out.println(ave(arr));
     }
 }
-//sd

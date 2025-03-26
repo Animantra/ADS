@@ -21,5 +21,3 @@ public class Main {
         System.out.println(min(arr,0));
     }
 }
-
-//check commit

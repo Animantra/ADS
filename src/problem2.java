@@ -19,3 +19,4 @@ public class problem2 {
         System.out.println(ave(arr));
     }
 }
+//sd
